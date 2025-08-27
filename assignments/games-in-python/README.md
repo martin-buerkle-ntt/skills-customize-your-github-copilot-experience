@@ -1,22 +1,27 @@
 # Games in Python
 
 ## Description
-Creating games using Python
+Creating games using Python.
 
 ## Due Date
 July 28, 2025
 
-## Objectives
+## 🎯 Objectives
 - Understand basic game mechanics in Python.
 - Learn to implement game logic using Python.
 - Explore Python libraries suitable for game development.
-- Enhance problem solving and coding skills.
+- Enhance problem-solving and coding skills.
+
+## 📝 Tasks
+- Download and review the provided starter code (`starter-code.py`).
+- Implement the game logic according to the assignment requirements.
+- Test your game locally to ensure correctness.
+- Submit your assignment via the course portal.
 
 ## Instructions
-1. Download the provided starter code (`starter-code.py`).
-2. Complete the game implementation following the assignment requirements.
-3. Test your game locally to ensure correctness.
-4. Submit your assignment via the course portal.
+1. Follow the tasks outlined above.
+2. Test your game thoroughly.
+3. Ensure your code meets the assignment criteria.
 
 ## Starter Code
 Refer to the file `starter-code.py` for the initial code structure.
