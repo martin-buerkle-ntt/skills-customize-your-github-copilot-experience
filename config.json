@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "build-rest-apis-fastapi",
+      "title": "Build REST APIs with FastAPI",
+      "description": "Create a RESTful API using FastAPI. Learn to build endpoints, process requests, and return JSON responses.",
+      "path": "assignments/build-rest-apis-fastapi",
+      "dueDate": "2025-09-03"
     }
   ]
 }
