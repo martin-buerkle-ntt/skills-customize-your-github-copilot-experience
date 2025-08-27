@@ -1,5 +1,26 @@
----
-applyTo: "assignments/**/*.md"
+# Games in Python
+
+## Description
+Creating games using Python
+
+## Due Date
+July 28, 2025
+
+## Objectives
+- Understand basic game mechanics in Python.
+- Learn to implement game logic using Python.
+- Explore Python libraries suitable for game development.
+- Enhance problem solving and coding skills.
+
+## Instructions
+1. Download the provided starter code (`starter-code.py`).
+2. Complete the game implementation following the assignment requirements.
+3. Test your game locally to ensure correctness.
+4. Submit your assignment via the course portal.
+
+## Starter Code
+Refer to the file `starter-code.py` for the initial code structure.
+
 ---
 
 # Hangman Game Challenge ✨
