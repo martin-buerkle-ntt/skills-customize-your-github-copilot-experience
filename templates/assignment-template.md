@@ -1,33 +1,40 @@
-# 📘 Assignment: [Assignment Title]
+---
+applyTo: "assignments/**/*.md"
+---
 
-## 🎯 Objective
+# [Assignment Title] ✨
 
-[Brief description of what the student will build or accomplish in this assignment]
+## Objective
+Provide a brief overview of what students will learn and accomplish. Focus on key skills and concepts.
 
-## 📝 Tasks
+## Tasks
 
-### 🛠️	[Task 1 Title]
+### Task 1: [Task Name]
+**Description:**  
+Clearly state the action-oriented task the student must perform.
 
-#### Description
-[Description what needs to be done by the student for this task]
+**Requirements:**
+- List specific, measurable outcomes
+- Provide clear criteria for success
 
-#### Requirements
-Completed program should:
+**Example Input/Output:**
+```
+# Example code block
+```
 
-- [Requirement 1]
-- [Requirement 2]
-- [Requirement 3]
+### Task 2: [Task Name]
+**Description:**  
+Clearly state the action-oriented task the student must perform.
 
+**Requirements:**
+- List specific, measurable outcomes
+- Provide clear criteria for success
 
-### 🛠️	[Task 2 Title]
+**Example Input/Output:**
+```
+# Example code block
+```
 
-#### Description
-[Description what needs to be done by the student for this task]
-
-#### Requirements
-Completed program should:
-
-- [Requirement 1]
-- [Requirement 2]
-- [Requirement 3]
+## Resources
+Refer to any starter code or additional materials provided in the assignment folder. Ensure file and folder names remain unchanged.
 
